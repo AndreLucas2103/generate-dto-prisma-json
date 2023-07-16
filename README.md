@@ -1,0 +1,1 @@
+# generate-dto-prisma-json
